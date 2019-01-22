@@ -50,9 +50,25 @@ projects_row2:
 
 I am a senior at Michigan State University studying Computer Science with a cognate in Game Design and Development. After graduation I will be working as a software engineer at Thomson Reuters. Long-term career interests include software and/or game development. Passionate about technology, games, books, and history.
 
-## Experience
-{% include feature_row id="experience_row" %}
+# Experience
 
-## Projects
+### Software Engineering Intern
+- Thomson Reuters (via TalentNet)
+- Summer 2018
+- Worked on Thomson Reuters' Onvio platform for tax professionals. Participated in Agile development on the Onvio Fixed Assets development team. Full-stack development experience including TypeScript, AngularJS, C#, and C++.
+
+### Professorial Assistant
+- Michigan State University
+- 2015-2019
+- Research assistant for Dr. Robert Pennock. Created and worked on a variety of software and game development projects including:
+    - Selenium automated testing suite written in Python for a JavaScript web application
+    - Salmon Run, an educational game project focused on evolution and biology and presented in a tower defense format
+
+### Bench Technician
+- Computer Service and Enhancment, Inc.
+- 2014-2018
+- Fixed hardware and software issues with customer computers. Participated in setup of computer systems in local school system. Interacted with customers in a variety of contexts.
+
+# Projects
 {% include feature_row id="projects_row1" %}
 {% include feature_row id="projects_row2" %}
