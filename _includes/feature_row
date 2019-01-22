@@ -18,6 +18,9 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
+            {% if f.url %}
+              <a href="{{ f_url }}">
+            {% endif %}
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
@@ -28,12 +31,21 @@
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
+            {% if f.url %}
+              </a>
+            {% endif %}
           </div>
         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
+            {% if f.url and f.title_link %}
+              <a href="{{ f_url }}">
+            {% endif %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% if f.url and f.title_link %}
+              </a>
+            {% endif %}
           {% endif %}
 
           {% if f.excerpt %}
@@ -42,7 +54,7 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
+          {% if f.url and  f.button%}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
