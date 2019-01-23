@@ -1,5 +1,4 @@
 ---
-permalink: /projects/lika
 header:
     video:
         id: wZEsJXEpPo8

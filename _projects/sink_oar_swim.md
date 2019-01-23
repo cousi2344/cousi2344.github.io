@@ -1,5 +1,4 @@
 ---
-permalink: /projects/sink_oar_swim
 header:
     image: /assets/images/sink_oar_swim_poster.png
 title: "Sink Oar Swim"

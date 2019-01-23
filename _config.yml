@@ -275,6 +275,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -293,6 +298,12 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-no-pagination
+      author_profile: true
+      read_time: false
+  - scope:
+      type: projects
+    values:
+      layout: single-no-pagination
       author_profile: true
       read_time: false

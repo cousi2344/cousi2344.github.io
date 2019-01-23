@@ -1,5 +1,4 @@
 ---
-permalink: /projects/an_armys_footsteps
 header:
     image: /assets/images/an_armys_footsteps.png
 title: "An Army's Footsteps"

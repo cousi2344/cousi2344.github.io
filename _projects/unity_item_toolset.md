@@ -1,5 +1,4 @@
 ---
-permalink: /projects/unity_item_toolset
 header:
     image: /assets/images/unity_item_toolset.png
 title: "Unity Item Toolset"

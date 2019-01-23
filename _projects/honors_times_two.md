@@ -1,5 +1,4 @@
 ---
-permalink: /projects/honors_times_two
 header:
     image: /assets/images/honors_times_two.png
 title: "Honors Times Two"

@@ -1,5 +1,4 @@
 ---
-permalink: /projects/enthusiasm
 header:
     image: /assets/images/enthusiasm_poster.jpg
 title: "Enthusiasm in an Empty World"
