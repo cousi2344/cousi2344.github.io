@@ -4,6 +4,10 @@ main:
     url: /
   - title: "Projects"
     url: /projects-archive
+  - title: "Work Experience"
+    url: /#work-experience
+  - title: "Education"
+    url: /#education
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
