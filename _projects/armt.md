@@ -12,7 +12,7 @@ Augmented Reality Mechanic Training is a set of immersive virtual training exper
 - Created UI for interacting with 3D models in the HoloLens using Windows Mixed Reality Toolkit
 
 ## More Info
-More info can be found at the [MSU Capstone Experience website](http://capstone.cse.msu.edu/2018-08/projects/union-pacific/).
+The final project video and more info can be found at the [MSU Capstone Experience website](http://capstone.cse.msu.edu/2018-08/projects/union-pacific/).
 
 ## Team
 Developed by a student team in CSE 498: Collaborative Design at Michigan State University (Fall 2018).
