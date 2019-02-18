@@ -1,6 +1,7 @@
 ---
 header:
     image: /assets/images/sink_oar_swim_poster.png
+    teaser: /assets/images/sink_oar_swim_poster.png
 title: "Sink Oar Swim"
 ---
 Sink Oar Swim is a action assassination game where you play as a cute but killer oarfish. Your goal is to eliminate a number of targets found throughout each level before the time runs out. Watch out for mines, and use the environment to your advantage as you flow through the water towards your targets!

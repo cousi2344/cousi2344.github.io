@@ -21,7 +21,7 @@ projects_row3:
     title: "Sink Oar Swim"
     title_link: true
     excerpt: "Action assassination game starring a cute but killer oarfish. Kill all the targets!"
-    url: "/projects/sink_oar_swim"
+    url: "/projects/sink-oar-swim"
 projects_row4:
   - image_path: assets/images/enthusiasm_poster.jpg
     alt: "placeholder image 1"
