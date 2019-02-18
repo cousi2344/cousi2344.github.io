@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jake Cousineau"
-  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer science student at Michigan State University. Aspiring software and/or game developer."
   location         : "East Lansing, MI"
   links:
