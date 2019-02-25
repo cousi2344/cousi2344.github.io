@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Resume"
+    url: /assets/content/Jacob-Cousineau-Resume.pdf
   - title: "Projects"
     url: /projects-archive
   - title: "Work Experience"
