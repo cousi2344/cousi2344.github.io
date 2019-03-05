@@ -31,7 +31,7 @@ projects_row4:
     url: "/projects/enthusiasm"
 ---
 
-I am a senior at Michigan State University studying Computer Science with a cognate in Game Design and Development. After graduation I will be working as a software engineer at Thomson Reuters. Long-term career interests include software and/or game development. Passionate about technology, games, books, and history. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
+I am a senior at Michigan State University studying Computer Science with a cognate in Game Design and Development. My career interests include game and software development. Passionate about technology, games, books, and history. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
 
 ## Projects
 {% include feature_row id="projects_row1" type="left" %}
