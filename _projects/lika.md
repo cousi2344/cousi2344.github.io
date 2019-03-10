@@ -1,6 +1,6 @@
 ---
 header:
-    teaser: /assets/images/lika_screenshot.png
+    teaser: /assets/images/teaser/lika_screenshot_teaser.png
     video:
         id: wZEsJXEpPo8
         provider: youtube

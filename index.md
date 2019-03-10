@@ -2,28 +2,28 @@
 title: "About Me"
 author_profile: true
 projects_row1:
-  - image_path: assets/images/armt_title.png
+  - image_path: assets/images/thumbnail/armt_title_thumbnail.png
     alt: "Augmented Reality Mechanic Training Image"
     title: "Augmented Reality Mechanic Training"
     title_link: true
     excerpt: "Suite of augmented reality training applications for railroad mechanics, developed as part of a capstone project sponsored by Union Pacific."
     url: "/projects/armt"
 projects_row2:
-  - image_path: assets/images/lika_screenshot.png
+  - image_path: assets/images/thumbnail/lika_screenshot_thumbnail.png
     alt: "Lika Screenshot"
     title: "Lika"
     title_link: true
     excerpt: "Mobile atmospheric side-scroller. Use wind powers to collect leaves and save a forest!"
     url: "/projects/lika"
 projects_row3:
-  - image_path: assets/images/sink_oar_swim_poster.png
+  - image_path: assets/images/thumbnail/sink_oar_swim_poster_thumbnail.png
     alt: "Sink Oar Swim Art"
     title: "Sink Oar Swim"
     title_link: true
     excerpt: "Action assassination game starring a cute but killer oarfish. Kill all the targets!"
     url: "/projects/sink-oar-swim"
 projects_row4:
-  - image_path: assets/images/enthusiasm_poster.jpg
+  - image_path: assets/images/full/enthusiasm_poster.jpg
     alt: "placeholder image 1"
     title: "Enthusiasm in an Empty World"
     title_link: true

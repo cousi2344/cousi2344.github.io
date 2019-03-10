@@ -1,7 +1,7 @@
 ---
 header:
-    image: /assets/images/enthusiasm_poster.jpg
-    teaser: /assets/images/enthusiasm_poster.jpg
+    image: /assets/images/full/enthusiasm_poster.jpg
+    teaser: /assets/images/full/enthusiasm_poster.jpg
 title: "Enthusiasm in an Empty World"
 ---
 Enthusiasm in an Empty World is an 2D puzzle platformer where you control an abandoned space rover named Enthusiasm who has been awakened into a strange new world by a mysterious source of solar power. Help Enthusiasm discover what happened and navigate light-themed puzzles while trying to keep Enthusiasm's solar battery alive!
