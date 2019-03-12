@@ -31,7 +31,7 @@ projects_row4:
     url: "/projects/enthusiasm"
 ---
 
-I am a senior at Michigan State University studying Computer Science with a cognate in Game Design and Development. My career interests include game and software development. Passionate about technology, games, books, and history. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
+I am a senior at Michigan State University studying Computer Science with a minor in Game Design and Development. I love programming for games and am looking to turn my experiences as a student and hobbyist into a long-term career. I am passionate about games, technology, reading, and history. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
 
 ## Projects
 {% include feature_row id="projects_row1" type="left" %}
