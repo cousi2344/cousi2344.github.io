@@ -11,7 +11,7 @@ Enthusiasm in an Empty World is an 2D puzzle platformer where you control an aba
 - Developed manager scripts for overall game flow, scene transitions, and checkpoints
 
 ## Release
-Sink Oar Swim is available for PC, Mac, and web browsers via [GameJolt](https://gamejolt.com/games/enthusiasm/294492).
+Enthusiasm in an Empty World is available for PC, Mac, and web browsers via [GameJolt](https://gamejolt.com/games/enthusiasm/294492).
 
 ## Team
 Developed by a student team in MI 445: Game Design & Development I at Michigan State University (Fall 2017).
