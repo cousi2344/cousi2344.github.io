@@ -52,7 +52,7 @@ Software Engineering Intern (via TalentNet) | May 2018 - August 2018<br>
 ### Michigan State University | East Lansing, MI
 {: .work-experience-title}
 <div class="small">
-Professorial Assistant | 2015-Present<br>
+Professorial Assistant | Aug. 2015 - April 2019<br>
 </div>
 - Research assistant for Dr. Robert Pennock
 - Developed prototypes for Salmon Run, an educational game focused on evolution
@@ -61,7 +61,7 @@ Professorial Assistant | 2015-Present<br>
 ### Computer Service and Enhancment, Inc. | Niagara, WI
 {: .work-experience-title}
 <div class="small">
-Bench Technician | 2014-2018<br>
+Bench Technician | June 2014- Jan. 2018 (during school breaks)<br>
 </div>
 - Fixed technical issues with customer computers
 - Participated in annual technical setup for a local school district
