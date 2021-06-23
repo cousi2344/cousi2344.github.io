@@ -84,6 +84,6 @@ Graduated May 2019
 - Experience with Git, TFS, Microsoft IDEs
 - Familiar with Python, Java, Unity Game Engine
 
-## Additional Experience
+## Featured Projects
 {% include feature_row id="projects_row1" type="left" %}
 {% include feature_row id="projects_row2" type="left" %}
