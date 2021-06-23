@@ -31,36 +31,59 @@ projects_row4:
     url: "/projects/enthusiasm"
 ---
 
-I am a senior at Michigan State University studying Computer Science with a minor in Game Design and Development. I love programming for games and am looking to turn my experiences as a student and hobbyist into a long-term career. I am passionate about games, technology, reading, and history. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
-
-## Projects
-{% include feature_row id="projects_row1" type="left" %}
-{% include feature_row id="projects_row2" type="left" %}
-{% include feature_row id="projects_row3" type="left" %}
-{% include feature_row id="projects_row4" type="left" %}
+I am a motivated and dependable software engineer seeking opportunities to apply and grow my programming skills by creating meaningful, well-designed software. I have a passion for software engineering because it allows me to apply my talents to solve problems and make users' lives easier with technology. If your company or organization shares those passions, I want to help. I have experience developing large web applications alongside a broad base of knowledge in multiple areas. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
 
 ## Work Experience
 
-### Software Engineering Intern
-Thomson Reuters (via TalentNet) | Ann Arbor, MI | Summer 2018
-- Experienced full-stack, Agile development on a team of nine
-- Implemented and supported features of Onvio Fixed Assets, a web application for tax professionals
-- Participated in maintenance process for Fixed Assets CS legacy desktop application
+### Thomson Reuters | Ann Arbor, MI
+{: .work-experience-title}
+<div class="small">
+Software Engineer | March 2020 - Present<br>
+Associate Software Engineer | May 2019 - March 2020<br>
+Software Engineering Intern (via TalentNet) | May 2018 - August 2018<br>
+</div>
+- Worked with a team to develop Onvio Fixed Assets, a web application for tax professionals
+- Developed across a tech stack including Angular front end, ASP.NET (C#) back end, PostgreSQL
+- Maintained a legacy desktop application (C++) and brought its features to Onvio Fixed Assets
+- Participated in Agile software development framework and processes
+- Mentored a summer intern and helped onboard new team members
 
-### Professorial Assistant
-Michigan State University | East Lansing, MI | 2015-Present
+
+### Michigan State University | East Lansing, MI
+{: .work-experience-title}
+<div class="small">
+Professorial Assistant | 2015-Present<br>
+</div>
 - Research assistant for Dr. Robert Pennock
 - Developed prototypes for Salmon Run, an educational game focused on evolution
 - Created Selenium test suite in Python for a JavaScript web application
 
-### Bench Technician
-Computer Service and Enhancment, Inc. | Niagara, WI | 2014-2018
+### Computer Service and Enhancment, Inc. | Niagara, WI
+{: .work-experience-title}
+<div class="small">
+Bench Technician | 2014-2018<br>
+</div>
 - Fixed technical issues with customer computers
 - Participated in annual technical setup for a local school district
 
 ## Education
 
-### Michigan State University
-BS, Computer Science | Expected Graduation May 2019
+### BS, Computer Science | Michigan State University
+{: .education-title}
+<div class="small">
+Graduated May 2019
+</div>
 - Minor in Game Design and Development (Ranked #7 program in world by Princeton Review)
 - 3.83 GPA, Honors College
+
+## Skills
+- Angular/Typescript Front End Development
+- ASP.NET/C# Back End Development
+- PostgreSQL Databases & Scripting
+- C++ Desktop Application Development
+- Experience with Git, TFS, Microsoft IDEs
+- Familiar with Python, Java, Unity Game Engine
+
+## Additional Experience
+{% include feature_row id="projects_row1" type="left" %}
+{% include feature_row id="projects_row2" type="left" %}

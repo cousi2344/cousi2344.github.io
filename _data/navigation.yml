@@ -4,12 +4,12 @@ main:
     url: /
   - title: "Resume"
     url: /assets/content/Jacob-Cousineau-Resume.pdf
-  - title: "Projects"
-    url: /projects-archive
   - title: "Work Experience"
     url: /#work-experience
   - title: "Education"
     url: /#education
+  - title: "Additional Experience"
+    url: /projects-archive
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
