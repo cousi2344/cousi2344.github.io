@@ -31,7 +31,7 @@ projects_row4:
     url: "/projects/enthusiasm"
 ---
 
-I am a motivated and dependable software engineer seeking opportunities to apply and grow my programming skills by creating meaningful, well-designed software. I have a passion for software engineering because it allows me to apply my talents to solve problems and make users' lives easier with technology. If your company or organization shares those passions, I want to help. I have experience developing large web applications alongside a broad base of knowledge in multiple areas. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
+I am a motivated and dependable software engineer seeking opportunities to apply and grow my programming skills and to create meaningful, well-designed software. I have a passion for software engineering because it allows me to apply my talents to solve problems and make users' lives easier with technology. If your company or organization shares those passions, I want to help. I have experience developing large web applications alongside a broad base of knowledge in multiple areas. See my résumé [here](/assets/content/Jacob-Cousineau-Resume.pdf)!
 
 ## Work Experience
 
@@ -73,12 +73,11 @@ Bench Technician | June 2014- Jan. 2018 (during school breaks)<br>
 <div class="small">
 Graduated May 2019
 </div>
-- Minor in Game Design and Development (Ranked #7 program in world by Princeton Review)
-- 3.83 GPA, Honors College
+- Concentration in Game Design and Development
 
 ## Skills
 - Angular/Typescript Front End Development
-- ASP.NET/C# Back End Development
+- C#/.NET Back End Development
 - PostgreSQL Databases & Scripting
 - C++ Desktop Application Development
 - Experience with Git, TFS, Microsoft IDEs
